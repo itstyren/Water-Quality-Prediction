@@ -25,4 +25,14 @@ This work presents a novel water quality prediction model leveraging hybrid atte
 
 #### **Paper Citation**
 
-Citation details coming soon.
+```text
+@article{YAO2025127160,
+title = {Feature-driven hybrid attention learning for accurate water quality prediction},
+author = {Xuan Yao and Zeshui Xu and Tianyu Ren and Xiao-Jun Zeng},
+journal = {Expert Systems with Applications},
+volume = {276},
+pages = {127160},
+year = {2025},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2025.127160}
+```
